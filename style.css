@@ -1,0 +1,470 @@
+body {
+    background-color: hsla(210, 10%, 92%, 0.843);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.bg-ima {
+    background-color: rgb(55 111 128);
+    min-height: 280px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    display: flex;
+
+}
+
+.gh {
+    margin-top: 64%;
+
+}
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+    width: 50%;
+
+}
+
+.s {
+    border-radius: 25px 60px;
+    position: absolute;
+    margin-top: 35%;
+    margin-left: 48%;
+    transform: translate(-50%, -50%);
+    border-color: rgb(55 111 128);
+    border-width: 4px;
+    border-style: solid;
+
+}
+
+.name {
+    position: absolute;
+    top: 30%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+
+    font-size: 45px;
+}
+
+.icon {
+    display: inline;
+    color: rgb(55 111 128);
+    text-overflow: inherit;
+
+}
+
+.k {
+    display: inline;
+
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 56%;
+    transform: translate(-50%, -50%);
+    color: rgb(150 211 209);
+    font-size: 35px;
+}
+
+.project,
+.internship {
+    list-style: none;
+    position: relative;
+    top: 10px;
+}
+
+ul {
+    font-size: large;
+    word-spacing: 5px;
+    line-height: 40px;
+
+
+}
+
+ol,
+.j {
+    font-size: large;
+    word-spacing: 5px;
+    line-height: 40px;
+    margin: 25px;
+    text-align: justify;
+
+
+
+}
+
+.jk {
+    font-size: large;
+    word-spacing: 5px;
+    line-height: 40px;
+    text-align: justify;
+    margin: 25px;
+
+}
+
+.con {
+    position: relative;
+    left: -35px;
+}
+
+
+.one,
+.th {
+    color: rgb(55 111 128);
+}
+
+.th1 {
+    color: rgb(55 111 128);
+    position: relative;
+    left: -55px;
+}
+
+.b {
+
+    border-bottom: solid;
+    margin: 20px;
+    margin-top: 35px;
+    margin-bottom: 10px;
+    border-color: rgb(55 111 128);
+
+}
+
+.a {
+
+    border-bottom: solid;
+    margin: 40px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    border-color: rgb(55 111 128);
+    position: relative;
+    top: 15px;
+
+
+}
+
+.c,
+.d,
+.l {
+
+    border-bottom: solid;
+    margin: 40px;
+    margin-top: -20px;
+    border-color: rgb(55 111 128);
+    margin-bottom: 52px;
+
+
+}
+
+
+
+.e,
+.f,
+.g,
+.i {
+    border-bottom: solid;
+    margin: 40px;
+    border-color: rgb(55 111 128);
+
+}
+
+.g {
+    position: relative;
+    top: -39px;
+}
+
+.h,
+.t {
+    border-bottom: solid;
+    padding-left: 89px;
+    border-color: rgb(55 111 128);
+    line-height: 5px;
+    text-align: justify;
+    padding-right: 50px;
+
+}
+
+.h {
+    position: relative;
+    top: 10px;
+}
+
+.skill,
+.level {
+    height: 10px;
+    width: 255px;
+    background-color: aliceblue;
+    border-radius: 7px;
+}
+
+.level {
+    background-color: rgb(55 111 128);
+}
+
+.k,
+.o {
+    font-size: large;
+}
+
+
+.disp {
+    display: flex;
+
+
+
+
+}
+
+h4,
+h3 {
+    display: inline;
+}
+
+.fi {
+
+    background-color: rgb(186 224 227);
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 60px;
+    margin-bottom: auto;
+    position: absolute;
+    height: 2717px;
+}
+
+.log {
+    margin: 20px;
+    margin-top: 70px;
+    margin-bottom: -60px;
+}
+
+
+.two {
+    margin-left: 37%;
+    background-color: whitesmoke;
+    margin-right: 20px;
+    margin-top: 20px;
+    text-align: justify;
+
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    color: rgb(55 111 128);
+}
+
+.u {
+
+    display: inline;
+    font-size: large;
+    margin: 2px;
+    text-overflow: inherit;
+}
+
+.tag {
+    font-size: 20px;
+    margin: 30px;
+    margin-left: 0px;
+    line-height: normal;
+    font-display: center;
+
+}
+
+.tag1 {
+    font-size: 20px;
+    position: relative;
+    left: -66px;
+    top: 10px;
+    margin-left: 0px;
+    line-height: normal;
+    font-display: center;
+    color: rgb(5 122 118);
+
+}
+
+.list {
+    position: relative;
+    top: 10px;
+}
+
+.contents {
+
+    position: relative;
+    top: 0px;
+    list-style: none;
+}
+
+.y {
+    display: inline;
+
+}
+
+.z {
+    color: rgb(49 84 156);
+    word-spacing: 10px;
+}
+
+@media only screen and (max-width:767px) {
+    body {
+        width: 100%;
+    }
+
+    .bg-ima {
+        height: 100px;
+        ;
+    }
+
+    .s {
+        height: 10%;
+        margin-top: 45%;
+        width: 10%;
+
+    }
+
+    .g {
+        top: 20px;
+        left: 27px;
+        padding-right: 10px;
+    }
+
+    .name {
+        font-size: 25px;
+        left: 12%;
+    }
+
+    .content {
+        font-size: 20px;
+        left: 30%
+    }
+
+    .e,
+    .f,
+    .g,
+    .h,
+    .i {
+
+        margin: 4px;
+    }
+
+    .gh {
+        margin-top: 100%;
+    }
+
+    .fi {
+        width: 378px;
+        margin-top: 70%;
+        margin-left: 1%;
+        display: inline;
+    }
+
+    .two {
+        margin-top: 400%;
+        width: 381px;
+        margin-left: 1%;
+        top: 1033px;
+        position: relative;
+
+    }
+
+    ol {
+        position: relative;
+        left: -27px;
+    }
+
+    .con {
+        position: relative;
+        left: -31px;
+    }
+
+    .linkedin {
+        position: relative;
+        top: -41px;
+        left: 24px;
+    }
+
+    .address {
+        position: relative;
+        top: -20px;
+    }
+
+    .fa-map-marker {
+        position: relative;
+        top: -22px;
+    }
+
+
+    .b {
+        top: 16px;
+        position: relative;
+    }
+
+    .a {
+        position: relative;
+        top: 32px;
+    }
+
+    .c,
+    .l,
+    .d {
+        position: relative;
+        top: 30px;
+    }
+
+    .t,
+    .h {
+        position: relative;
+        left: -23px;
+        width: 216px;
+    }
+
+    .internship {
+        left: -43px;
+        width: 300px;
+    }
+
+    #internship,
+    .list {
+        position: relative;
+        left: -37px;
+    }
+
+    .list {
+        position: relative;
+        left: -30px;
+        width: 234px;
+    }
+
+    .contents {
+        left: -71px;
+        width: 555px;
+    }
+
+    .discription {
+        position: relative;
+        left: -63px;
+        width: 337px;
+        text-align: justify;
+    }
+
+    #z {
+        width: 100px;
+        text-overflow: clip;
+    }
+
+
+
+
+
+
+
+}
